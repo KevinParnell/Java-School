@@ -36,11 +36,11 @@ public class pizzashop {
         desArea = scanner.nextFloat();
 
         pizzaRad = pizzaDiam / 2;
-        area = Math.PI * Math.pow(pizzaRad,2);
+        area = Math.PI * Math.pow(pizzaRad, 2);
         numSlice = Math.round(area / desArea);
 
         // Makes it so that if you get more than one slice, it adds the plurality properly
-        if (numSlice > 1){
+        if (numSlice > 1) {
             slice += "s";
         }
 
