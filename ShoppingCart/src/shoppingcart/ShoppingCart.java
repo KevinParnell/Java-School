@@ -14,12 +14,15 @@ public class ShoppingCart {
 
     public static void main(String[] args) {
 
+        Order order = new Order("Rick Wilson", 910.00, "VA", Order.NONPROFIT);
+        System.out.println("Discount is: " + order.getDiscount());
+
         /* String custName = "Kevin Parnell";
         String itemDesc = "shirt";
         String message; */
 
         // Instantiate 2 item objects
-        Item item1, item2;
+        /* Item item1, item2;
         item1 = new Item();
         item2 = new Item();
 
@@ -36,7 +39,7 @@ public class ShoppingCart {
         // Assign one item to another and run it again
         item1 = item2;
         System.out.println("Item1: " + item1.desc + " " + item1.itemID);
-        System.out.println("Item2: " + item2.desc + " " + item2.itemID);
+        System.out.println("Item2: " + item2.desc + " " + item2.itemID); */
 
         /* int quantity = 2;
         int stock = 5;
