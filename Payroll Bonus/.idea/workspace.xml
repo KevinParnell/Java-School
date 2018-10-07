@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ec2e5f9-c661-41ee-9cdc-b6109c64d49f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Payroll Bonus/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Payroll Bonus/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Payroll Bonus/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="dd0937fa-5a7a-4a97-8cd5-aeb16c3c0edd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Malachi's Pizza Shop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Malachi's Pizza Shop/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ShoppingCart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ShoppingCart/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Student/student/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Student/student/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Student/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Student/out/production/Student/student/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Student/out/production/Student/student/Student.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,10 +20,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/student/Student.java">
+        <entry file="file://$PROJECT_DIR$/src/Payroll/Payroll.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+            <state relative-caret-position="225">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -36,14 +39,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/Student/Main.java" />
-        <option value="$PROJECT_DIR$/src/Student/Student.java" />
-        <option value="$PROJECT_DIR$/src/student/Student.java" />
+        <option value="$PROJECT_DIR$/src/payroll/payroll.java" />
+        <option value="$PROJECT_DIR$/src/payroll/Payroll.java" />
+        <option value="$PROJECT_DIR$/src/Payroll/Payroll.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="24" />
     <option name="width" value="1440" />
     <option name="height" value="813" />
@@ -54,36 +56,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Student" type="462c0819:PsiDirectoryNode" />
+              <item name="Payroll Bonus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Payroll Bonus" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Student" type="462c0819:PsiDirectoryNode" />
+              <item name="Payroll Bonus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Payroll Bonus" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Student" type="462c0819:PsiDirectoryNode" />
+              <item name="Payroll Bonus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Payroll Bonus" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="student" type="462c0819:PsiDirectoryNode" />
+              <item name="Payroll" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538369920706" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538900734679" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -99,8 +99,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="student.Student" />
-      <module name="Student" />
+      <option name="MAIN_CLASS_NAME" value="Payroll.Payroll" />
+      <module name="Payroll Bonus" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -118,18 +118,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1ec2e5f9-c661-41ee-9cdc-b6109c64d49f" name="Default Changelist" comment="" />
-      <created>1538329985959</created>
+      <changelist id="dd0937fa-5a7a-4a97-8cd5-aeb16c3c0edd" name="Default Changelist" comment="" />
+      <created>1538544344836</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1538329985959</updated>
+      <updated>1538544344836</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="813" extended-state="6" />
+    <frame x="0" y="24" width="1440" height="813" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -137,8 +138,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32871014" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32871014" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32732317" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -146,7 +147,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32871014" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32732317" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -158,10 +159,13 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/student/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/Payroll/Payroll.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+        <state relative-caret-position="225">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
